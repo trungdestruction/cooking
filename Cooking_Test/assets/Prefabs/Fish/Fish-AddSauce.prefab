@@ -13,7 +13,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "Fish - Spice",
+    "_name": "Fish-AddSauce",
     "_objFlags": 0,
     "_parent": null,
     "_children": [],
@@ -111,7 +111,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "62f07cae-da00-4662-b063-b201bcdf39dd"
     },
     "fileId": "",
     "sync": false

@@ -15,6 +15,8 @@ export default class DishFish extends cc.Component {
 
     public foodDish: string = null!;
     
+    public foodOrder: string = null!;
+
     toDish() {
         this.food = true;
         let fishDone = cc.instantiate(this.fishSpice);
@@ -27,8 +29,10 @@ export default class DishFish extends cc.Component {
     }
 
     toChar() {
-        var foodOrder = Char.instance.character.children[0].getChildByName("food").children[0].getChildByName("Fish-AddSource").name;
-        if(this.foodDish = foodOrder) {
+        console.log(Char.instance.character.children[0].getChildByName("food").children[0].getChildByName("Fish-AddSauce"));
+        console.log(this.foodDish);
+        console.log(this.foodOrder);
+        if(this.foodDish = this.foodOrder) {
             console.log("hello");
         }
     }

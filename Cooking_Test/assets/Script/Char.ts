@@ -45,6 +45,9 @@ export default class Char extends cc.Component {
 
     order(parent) {
         let order = cc.instantiate(this.ordering[this.getRandom(0, 2)]);
+        console.log(order.children[0].name);
+        if(order.childrenCount > 1)
+        console.log(order.children[1].name);
         order.parent = parent;
     }
 

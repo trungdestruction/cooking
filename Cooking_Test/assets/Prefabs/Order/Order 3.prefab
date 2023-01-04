@@ -78,7 +78,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "Fish-AddSause",
+    "_name": "Fish-AddSauce",
     "_objFlags": 0,
     "_parent": {
       "__id__": 1
@@ -178,7 +178,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "7d9fe7e9-37d4-45b9-8b82-782995ca4194"
     },
     "fileId": "51dzF2z0hFALJA1c4dMK+6",
     "sync": false
@@ -285,7 +285,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "7d9fe7e9-37d4-45b9-8b82-782995ca4194"
     },
     "fileId": "fbWsJ/VltH9p2SFnk/xr+P",
     "sync": false
@@ -296,7 +296,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "7d9fe7e9-37d4-45b9-8b82-782995ca4194"
     },
     "fileId": "",
     "sync": false

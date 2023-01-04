@@ -178,14 +178,14 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "4a038d00-9ba5-4de9-aec3-42f1102b6ba9"
     },
     "fileId": "acJg8A3qRBap5CVoH7/ued",
     "sync": false
   },
   {
     "__type__": "cc.Node",
-    "_name": "Fish-AddSause",
+    "_name": "Fish-AddSauce",
     "_objFlags": 0,
     "_parent": {
       "__id__": 1
@@ -285,7 +285,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "4a038d00-9ba5-4de9-aec3-42f1102b6ba9"
     },
     "fileId": "56Y3ycr7dN649uJD/Qo7oO",
     "sync": false
@@ -296,7 +296,7 @@
       "__id__": 1
     },
     "asset": {
-      "__id__": 0
+      "__uuid__": "4a038d00-9ba5-4de9-aec3-42f1102b6ba9"
     },
     "fileId": "",
     "sync": false
